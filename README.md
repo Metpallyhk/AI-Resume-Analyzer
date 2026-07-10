@@ -20,4 +20,4 @@ An AI-powered application that analyzes resumes and provides personalized feedba
 
 ## Status
 
-🚧 Under Development
+Under Development
